@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TjEVhjQeE50K7P2R0pGyEvjzkXr2WDQ5OKywL9mVlIta+zXUSB/XFEuK1SHPBDuC24kXW7kqcIlKjlGPeEYgZA==",
+  "dgSpecHash": "aXiLK0woDkSPZ8TTuX/uKf8cQdLZ2QANPD8TjXehBGLHkVUslUOTCuLPlOUO27RlgADoZ9EK1DxRSZy+nKfabg==",
   "success": true,
-  "projectFilePath": "/Users/woodyhuang/firstApp/firstApp.csproj",
+  "projectFilePath": "/Users/woodyhuang/Documents/GitHub/realweb/firstApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

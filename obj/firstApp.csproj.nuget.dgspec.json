@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/woodyhuang/firstApp/firstApp.csproj": {}
+    "/Users/woodyhuang/Documents/GitHub/realweb/firstApp.csproj": {}
   },
   "projects": {
-    "/Users/woodyhuang/firstApp/firstApp.csproj": {
+    "/Users/woodyhuang/Documents/GitHub/realweb/firstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/woodyhuang/firstApp/firstApp.csproj",
+        "projectUniqueName": "/Users/woodyhuang/Documents/GitHub/realweb/firstApp.csproj",
         "projectName": "firstApp",
-        "projectPath": "/Users/woodyhuang/firstApp/firstApp.csproj",
+        "projectPath": "/Users/woodyhuang/Documents/GitHub/realweb/firstApp.csproj",
         "packagesPath": "/Users/woodyhuang/.nuget/packages/",
-        "outputPath": "/Users/woodyhuang/firstApp/obj/",
+        "outputPath": "/Users/woodyhuang/Documents/GitHub/realweb/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/woodyhuang/.nuget/NuGet/NuGet.Config"
